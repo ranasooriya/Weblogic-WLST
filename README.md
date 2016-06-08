@@ -1,2 +1,0 @@
-# Weblogic-WLST
-Weblogic Scripting
